@@ -1,0 +1,1 @@
+bdPalabras= ["unicordios", "abejitas", "gomitas", "programacion", "novios", "sofware", "coltis", "cosita", "hadware"]
